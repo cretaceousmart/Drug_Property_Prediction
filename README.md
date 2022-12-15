@@ -33,7 +33,7 @@ Hi, I’m happy to let you know I’ve finished the coding task that builds the 
 
       
     - For GNN, I use the implementation from Deep Purpose and plot the ROC curve.
-    - For Tree model, I use the featurizer from DeepChem and use sckit-learn to build model.
+    - For Tree model, I use the featurizer from DeepChem and use scikit-learn to build model,then plot the ROC curve.
   
 
   
