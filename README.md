@@ -27,7 +27,7 @@ Hi, I’m happy to let you know I’ve finished the coding task that builds the 
 
 
 - About model:
-    - For Transformer: I build it from scratch without using any other library. In the beginning, I don’t know how to embed the drug structure in a proper way. So for the Transformer, I just use a very naive NLP method for featurization (maybe missed the information about the drug structure ).  I don't spend much time tuning the parameters but it achieves the comparable performance as the implementation in Deep Purpose.
+    - For Transformer: I build it from scratch without using any other library. In the beginning, I don’t know how to embed the drug structure in a proper way. So for the Transformer, I just use a very naive NLP method for featurization (Treat the drug input such as "CC(=O)Nc1ccccc1" as a sentence, maybe missed the information about the drug structure ).  I don't spend much time tuning the parameters but it achieves the comparable performance as the implementation in Deep Purpose.
       - ![image](https://user-images.githubusercontent.com/48281792/207720048-1ec6b967-cc71-4ca7-9b02-d5c9acab3c8b.png)
       - ![image](https://user-images.githubusercontent.com/48281792/207720152-4b7349ab-31fd-4e58-8df2-40b630cf9ccc.png)
 
