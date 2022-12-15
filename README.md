@@ -4,7 +4,7 @@ Hi, I’m happy to let you know I’ve finished the coding task that builds the 
 
 - Due to the limited time, there're a lot of things that can be improved, I'm looking forward to having a furthur discussion with you!
 
-- Outcome: All the experiment's outcomes are shown in the .pynb. Since I don't have a nice GPU, I put all the training processes on Colab. I will suggest you check them by the below link:
+- Outcome: All the experiment's outcomes are shown in the .ipynb. Since I don't have a nice GPU, I put all the training processes on Colab. I will suggest you check them by the below link:
 
   - [Transformer](https://colab.research.google.com/drive/1Jx4fV3IADJjntRejNWnKtMTwYAe4k7b8?usp=sharing)
   - [GNN](https://colab.research.google.com/drive/1-NuprDN1gfcmqjRCwYVRVhtRte5MJu4b?usp=sharing)
