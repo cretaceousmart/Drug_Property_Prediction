@@ -9,13 +9,6 @@ Hi, I'm using Transformer, GNN, and Tree model(Random Forest) to predict the dru
   - [Transformer](https://colab.research.google.com/drive/1Jx4fV3IADJjntRejNWnKtMTwYAe4k7b8?usp=sharing)
   - [GNN](https://colab.research.google.com/drive/1-NuprDN1gfcmqjRCwYVRVhtRte5MJu4b?usp=sharing)
   - [Tree model](https://colab.research.google.com/drive/1mhTdbYw4DtNfkekEuJtF3ElSX5XT9l2h?usp=sharing)
-  
-
-- Timeline:
-    - 2022.12.6-12.9: Read the description of the task. In the beginning, I found an implementation for this problem called [Deep Purpose](https://github.com/kexinhuang12345/DeepPurpose/blob/master/README.md#pretrained-models). However, since I don’t know anything about drug featurization and transformer/attention, so I spend about 1.5 days learning it.  And decide to spend about 2 days writing it from scratch by Pytorch. Including the network (multihead-attention, encoder, decoder), data loader, data spliting, data shuffle, and plotting …)
-    - 2022.12.13: After an email with Ryan, I realized that I can use the implementation from other people, so I use the implementation from Deep Purpose to build GNN. For the tree model, I use a library called [DeepChem](https://github.com/deepchem/deepchem) to do the drug structure featurization. (Choose one of the featurizer) and use scikit-learn to build XGBoost and Random Forest.
-    - 2022.12.14: summarized the result
-    - Basically I spend most of my time writing Transformer.
 
 
 - What interesting things I found:
