@@ -1,6 +1,6 @@
 # Drug_Property_Prediction
 
-Hi, I’m happy to let you know I’ve finished the coding task that builds the Transformer, GNN, and Tree model(Random Forest) to predict the drug property. Thanks for giving me this opportunity to slove real-world problems since I haven’t gotten in torch with Medical ML problems and  Transformer. I will show you what I’ve done and what I found.
+Hi, I'm using Transformer, GNN, and Tree model(Random Forest) to predict the drug property. Thanks for giving me this opportunity to slove real-world problems since I haven’t gotten in torch with Medical ML problems and  Transformer. I will show you what I’ve done and what I found.
 
 - Due to the limited time, there're a lot of things that can be improved, I'm looking forward to having a furthur discussion with you!
 
